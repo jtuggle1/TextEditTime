@@ -1,1 +1,1 @@
-# TextEditTime
+Program that opens TextEdit, reformats and pastes the current time/date and then saves it locally
